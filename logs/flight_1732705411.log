@@ -1,0 +1,3065 @@
+{
+    "obstacles": [
+        {
+            "__numpy__": "AAAAAAAAAMAAAAAAAAAAwAAAAAAAAPC/AAAAAAAAAMAAAAAAAADwvwAAAAAAAOA/AAAAAAAAAMAAAAAAAADgPw==",
+            "dtype": "<f8",
+            "shape": [
+                4,
+                2
+            ]
+        },
+        {
+            "__numpy__": "AAAAAAAAAEAAAAAAAAAAQAAAAAAAAPA/AAAAAAAAAEAAAAAAAADwPwAAAAAAAOC/AAAAAAAAAEAAAAAAAADgvw==",
+            "dtype": "<f8",
+            "shape": [
+                4,
+                2
+            ]
+        }
+    ],
+    "spl": [
+        {
+            "__numpy__": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAvgNDpyyP5ct+FJp98A/Ilr0nsugyD/zbC5tJfzPP2cnZGL7ftM/QH8WbloB1z8Y18h5uYPaP/b2e4Z0T+A/Z+tL3+IE4z/X3xs4UbrlP5ugeCVwlug/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8=",
+            "dtype": "<f8",
+            "shape": [
+                19
+            ]
+        },
+        {
+            "__numpy__": "AAAAAAAACMAAAAAAAAAAAGZmZmZmZuY/+/WPU5dBBcDMMgRra1faP2ZmZmZmZuY/+hj+4bYNAsD7yNWM4hnjP2ZmZmZmZuY/8XfY4Kyz/b+QeClkDwjpP2ZmZmZmZuY/H7jjWjUa978BntYbMx7sP2ZmZmZmZuY/F21YIfnv8L981/vHIUroP2ZmZmZmZuY/HgegcDhk5r8mZHIszFfiP2ZmZmZmZuY/HWgePf3Q1b+g4dEh7crYP2ZmZmZmZuY/VKSzNdptpT/goa+obOvJv2ZmZmZmZuY/xgqKgA0Q4D/TXoy/Kvbjv2ZmZmZmZuY/Rtu4XT3J7j+XanYqvbjwv2ZmZmZmZuY/cnn3wtrQ+T8AZF/b01Puv2ZmZmZmZuY/BC+gi9n7AEC0LiRGdfflv2ZmZmZmZuY/UKHEtUUPBUDS8tFhLTbbv2ZmZmZmZuY/AAAAAAAACEAAAAAAAAAAAGZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                15,
+                3
+            ]
+        },
+        3
+    ],
+    "positions": [
+        {
+            "__numpy__": "AAAAgCvPBsAAAAAAf2iGPwAAAAAS/Os/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAgCvPBsAAAAAAf2iGPwAAAAAS/Os/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAgDXSBsAAAABAN62HPwAAAODbCuw/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAAJDTBsAAAACAsc6HPwAAAIBUE+w/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAoEXVBsAAAACAcLuHPwAAACDtGew/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAA4MDWBsAAAACAv0qIPwAAAKD6Iuw/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAwD3XBsAAAACA1iaIPwAAACCCKOw/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAgLzYBsAAAACApVuIPwAAAEBOMew/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAIL/YBsAAAABg2GmIPwAAAOASMuw/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAgFDYBsAAAAAAN7+IPwAAAIAtLew/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAoB/XBsAAAACAgMGJPwAAAIAbHew/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAYPHQBsAAAAAgP3STPwAAAOBR1us/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAAKrJBsAAAACA9bSbPwAAAKC9pOs/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAAC6/BsAAAADgyOajPwAAAGA2aus/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAoDuyBsAAAAAA5+qrPwAAAIC9K+s/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAALWOBsAAAADAan+4PwAAACDipeo/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAAFR4BsAAAAAgh/O+PwAAAEBiZOo/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAwDNfBsAAAABgmA3DPwAAAGDFJuo/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAoNNCBsAAAACA9+jGPwAAAEAs7uk/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAQDD+BcAAAABA8GLPPwAAAGAAkOk/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAQAvWBcAAAACAKv3RPwAAAMACa+k/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAACupBcAAAADgQVjUPwAAAAD7Suk/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAwGV4BcAAAABAz7rWPwAAAMAWMuk/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAYPpCBcAAAAAgdx/ZPwAAAKCVHuk/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAALvLBMAAAACgxfDdPwAAAIAz/+g/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAAJeKBMAAAACA3CbgPwAAAMCK8ug/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAgOFFBMAAAACg11DhPwAAAEAt5eg/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAwND9A8AAAABgN3DiPwAAAKBc2ug/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAAG5lA8AAAAAAFXLkPwAAAMBQ0Og/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAA4BIXA8AAAABAsFHlPwAAAKDDzug/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAgBHIAsAAAACAiR7mPwAAAKCL0Og/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAAGl4AsAAAABAQ9nmPwAAACDW0+g/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAwC/XAcAAAABgIxLoPwAAAODd1Og/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAYFaFAcAAAACAQJToPwAAAICf1eg/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAoBYzAcAAAACAJAfpPwAAAEBp1ug/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAoOjgAMAAAADA8mjpPwAAACCaz+g/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAgII8AMAAAAAgDRLqPwAAACBrv+g/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAoFXS/78AAACgxlfqPwAAAOAttug/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAAHAs/78AAACAW5jqPwAAAGDmrOg/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAA4LyE/r8AAABAPdTqPwAAAKBvo+g/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAIHHc/b8AAACgMwvrPwAAAGAEmeg/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAQLWM/L8AAABgxGfrPwAAAMA1h+g/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAA4LTj+78AAADAdovrPwAAACCgfeg/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAwAc6+78AAAAAtqrrPwAAAIDudeg/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAoPWP+r8AAAAgxMPrPwAAAMAIcOg/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAALfj+b8AAADAstXrPwAAAEB+Z+g/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAwL6L+L8AAAAgFe7rPwAAAIAiV+g/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAYGfg978AAAAgZ/frPwAAAOBqUeg/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAAOU0978AAADA1v/rPwAAAODiS+g/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAA4FGK9r8AAAAgAQjsPwAAAOAnQOg/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAA4Jvh9b8AAADgaBbsPwAAAECNLeg/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAgKCV9L8AAAAAGD7sPwAAAADK7uc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAYGjx878AAADAy1PsPwAAAIDCy+c/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAwNNP878AAABAAWHsPwAAAOB9ruc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAwNex8r8AAAAg8GbsPwAAAACWlec/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAoEIU8r8AAACg6mrsPwAAAMCBhuc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAoD3W8L8AAADgFE/sPwAAAGCWjOc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAwL058L8AAADg4SnsPwAAAODelec/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAoAw8778AAADAHfPrPwAAACAgnOc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAAJwL7r8AAAAgdKvrPwAAAAAZoOc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAICHa7L8AAABgSE/rPwAAACDbnec/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAQGNt6r8AAABgw07qPwAAACAElec/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAgAg66b8AAACAqKzpPwAAAABRkuc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAwHoH6L8AAADAtvvoPwAAAKBUjuc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAINnb5r8AAADgKUDoPwAAAEBUiOc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAgDOU5L8AAABA8LPmPwAAAABBeec/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAIC18478AAACAsuLlPwAAACCpdec/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAYP1t4r8AAADA5v/kPwAAAOCVdOc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAA4JJq4b8AAAAA7wnkPwAAAMCxduc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAIFBu4L8AAAAA+gjjPwAAAABmfuc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAADYp3b8AAABgvOrgPwAAAMBUkuc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAgM1h278AAADA6Z/fPwAAACCdmuc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAA4Iul2b8AAACArmTdPwAAACA+pec/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAA4Lrx178AAACg8B3bPwAAAIA6sOc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAYImZ1L8AAADgCHzWPwAAAODRzuc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAQC/00r8AAAAAyiDUPwAAAKC33uc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAwEFY0b8AAAAAJMDRPwAAACD77ec/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAwJVwz78AAADAlbXOPwAAAOBd+Oc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAQB3JyL8AAAAgFWfFPwAAAIBPAOg/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAAL17xb8AAACAdLbAPwAAAADJBOg/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAoMY6wr8AAADgUNy3PwAAAGC/COg/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAA4ABCvr8AAACg+yWtPwAAAACQCOg/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAQIIpuL8AAACAUpuVPwAAAOBLA+g/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAAMCKp78AAABAQnKpvwAAAKAb8ec/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAYDpMlb8AAADgK6y1vwAAAMCV5uc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAwB4pdz8AAACgIZ++vwAAAMDN2+c/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAwE3VoD8AAACA9drDvwAAAKDOz+c/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAoKj9tj8AAABA9QfNvwAAAEB9vuc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAoJeavj8AAADgANLQvwAAAKD9uOc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAAMgswz8AAABg/SXTvwAAAGDItOc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAYEMgxz8AAACAoIbVvwAAAEAEsOc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAAI4zyz8AAADgzOjXvwAAAOA6qec/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAIM/p0T8AAACg7ZbcvwAAAIDWmOc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAYNEk1D8AAABAl/jevwAAAOA6j+c/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAAPl11j8AAAAgmrHgvwAAAGAqjuc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAAAHN2D8AAABAOe7hvwAAAGCqiuc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAINA12z8AAABAUCnjvwAAAEAIi+c/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAYA8S4D8AAADgdqTlvwAAAKANkOc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAA4CpS4T8AAACgcdnmvwAAAMAimOc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAgOSR4j8AAABAkgjovwAAAABhnuc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAA4CLS4z8AAACgNS/pvwAAACBSpuc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAwF4S5T8AAABAlD7qvwAAAKBZq+c/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAQLGf5z8AAABgrjDsvwAAAGA0sOc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAA4Frr6D8AAADgvRPtvwAAAIAZsOc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAAIIy6j8AAACgountvwAAAKBNp+c/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAAEGE6z8AAABArKzuvwAAAGANmuc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAwGjL7D8AAADg7ljvvwAAAKBliuc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAQLNZ7z8AAABAYTvwvwAAAIC2buc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAIC1P8D8AAACABHPwvwAAACBQbec/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAwLns8D8AAABgmqXwvwAAAIDrbOc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAoJ2K8T8AAACg2dLwvwAAACAcc+c/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAoD0n8j8AAABggP3wvwAAAEDgduc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAIONm8z8AAADgWkfxvwAAAADmiec/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAACwK9D8AAAAg72XxvwAAAMDmkOc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAQJCv9D8AAABAtX/xvwAAAGAZmOc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAAAVW9T8AAADAX5fxvwAAAEDuouc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAwCWh9j8AAACA/6jxvwAAAEBAn+c/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAoOBD9z8AAABgnqPxvwAAAEB2kOc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAILbk9z8AAAAAlpTxvwAAAED1euc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAgKSF+D8AAADganrxvwAAAID+Yuc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAoK0m+T8AAACgHVXxvwAAAEBzSec/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAA4FVq+j8AAACgSufwvwAAAKCpF+c/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAACsN+z8AAAAgjp7wvwAAAKDv/+Y/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAoKOw+z8AAADgS0zwvwAAAGCO7OY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAAChS/D8AAACAx97vvwAAAMCR3+Y/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAAEmb/T8AAABgGTbuvwAAAGAYzuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAA4Kc+/j8AAADgN0ftvwAAAIDQz+Y/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAAEzj/j8AAACABUzsvwAAAIBBz+Y/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAQL6H/z8AAACgBT7rvwAAAKC/0OY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAgA9oAEAAAAAANAfpvwAAAAB91+Y/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAAJ64AEAAAACgM93nvwAAACDH3+Y/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAwHMKAUAAAAAAQ7HmvwAAACCU6OY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAwDpcAUAAAACglYjlvwAAAGAH7OY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAYIr7AUAAAADAfDLjvwAAAMDf4uY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAQJ1HAkAAAACAsRHivwAAAKC73OY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAA4LaUAkAAAAAAwPDgvwAAAKAC2OY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAwCzhAkAAAAAATcvfvwAAAKD01OY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAIL0tA0AAAABAPcDdvwAAAAAi2eY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAYKrFA0AAAACgPOzZvwAAAAAq6+Y/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAQNsQBEAAAABgqjLYvwAAAAAP8+Y/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAoEZbBEAAAABA/Y7WvwAAAOD2/eY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAAIGlBEAAAAAAxQ3VvwAAAADuCuc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAANntBEAAAAAA/KTTvwAAAIBlGuc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAQOZ5BUAAAAAAph/RvwAAACCgMuc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAwFC8BUAAAAAgpOXPvwAAAGA8POc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAIG/8BUAAAAAAfrzNvwAAACArROc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAwBI6BkAAAABgcKnLvwAAAEDlS+c/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAYBGpBkAAAADAMwjIvwAAAKB0WOc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAYLzgBkAAAADAED7GvwAAACCCX+c/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAYAQWB0AAAACgmHfEvwAAAIDJZOc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAoDJJB0AAAABgAMDCvwAAAKAhaOc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAwC15B0AAAADA7vnAvwAAAGANbec/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAQEbQB0AAAAAA4iu7vwAAAADIcec/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAA4Nb2B0AAAACgsrC3vwAAAIAxdOc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAoFEbCEAAAAAApVm0vwAAAMB8dOc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAQOI7CEAAAAAAvNmwvwAAAMA0duc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAYDpYCEAAAAAgHW6rvwAAAEBte+c/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAAYNuFCEAAAABg5l6gvwAAAEBciuc/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AAAA4HWYCEAAAAAg3L6WvwAAAOA7jec/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        }
+    ],
+    "aims": [
+        {
+            "__numpy__": "Z+tksGOiBcAdr79QZ+XTP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "qeMCihagBcBxMMVSxfXTP2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "qeMCihagBcBxMMVSxfXTP2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "qeMCihagBcBxMMVSxfXTP2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "qeMCihagBcBxMMVSxfXTP2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "qeMCihagBcBxMMVSxfXTP2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "qeMCihagBcBxMMVSxfXTP2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "McJd9cmdBcB3LkUTGQbUP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "McJd9cmdBcB3LkUTGQbUP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "McJd9cmdBcB3LkUTGQbUP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "McJd9cmdBcB3LkUTGQbUP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "oUzmYwqQBcCCbyFJOWfUP2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "v7nkNdV9BcBw7qJ2g+bUP2hmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "nYM1YMhiBcC/HsKWyaDVP2RmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "DL3TUck6BcDchdfE963WP2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "V5gy4U7RBMCsyeacxk/ZP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "VH7IW/OMBMCcvCn/V+jaP2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "C1+9qto6BMB2JjLL6bXcP2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "ptfEhZvcA8DLfvkHY6HeP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "rwkjPgyYA8A2pSLeIu7fP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "JlCpDUhwA8DteQE0C1PgP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "IkFDjfNDA8BlgAre4rXgP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "BP4O5VUTA8AXNdHLHR7hP2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "s/zpjwndAsDYhNU44Y3hP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "EalGZb5lAsC1iXbd1HXiP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "JfTpOzglAsDQAyJyVe7iP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "d9YfFyzgAcAENR3SM27jP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "gaRXOFiYAcDoX0qe8/LjP2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "CjdlGF//AMD4fcmJzQrlP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "ywmlvhixAMBM0knuMpflP2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "ZHVDWsliAMCLuwtVxSDmP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "3//0xc4SAMA8Od9PeKnmP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "y28ULODj/r/XIgJgdq3nP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "OQGao4NA/r/IRMAWRijoP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "IMMP5nGZ/b+gjKqXlZ7oP2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "ZU/z9xn2/L/bAZkmmQrpP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "/A1yK7Kt+78YDPgTrsnpP2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "4skVo14G+7+4qM0E3xvqP2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "KlUSxgNh+r9wKqQY02HqP2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "Cun2x0W4+b8AVxbyrJzqP2RmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "nonDVgIS+b8Gmy73QMnqP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "BBB1bKHC97/vmyhyMPbqP2RmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "G3YM7TMX979YIKMMX/PqP2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "j9RezDVv9r//MEPzLd7qP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "awDllxvF9b9sehUptbbqP2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "C+CNfu8Y9b+0F8vHbX3qP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "pzBWNwrA87/0orLLAdvpP2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "qoo+UhYW879sPS0h+3XpP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "HYGOqChq8r9wTAi8WAPpP2hmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "BqXwDQK/8b8dahQVGIboP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "qUJnv1YX8b/2NEWM4gHoP2RmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "Tjg0b2aU779vq7U+8+PmP2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "DozvuGhO7r9ujh+HeU7mP2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "doBMtEcJ7b84lrBgKbTlP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "CJUwcRnK67/2M/aZXBjlP2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "5+DMjZ+Q6r9Wfh1D8nvkP2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "bNiyYFsT6L8H09V0tzbjP2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "U1x2IRXf5r+GAfSoaZfiP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "ocYJ/Atq5r8p7BuR0FriP2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "KkXv+aTf5b/xD7K7GxPiP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "9+AX5OYv5b+swRHbqLfhP2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "KsxqC/NQ4783FtQf47fgP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "ph8sAS8t4r8rinUkpxPgP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "RjHR524F4b93Ui8Wn8beP2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "W5smDwi/379LeIrNmE7dP2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "GLmMwvVz27/6rORCTjXaP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "J0sfzEt12b+C4XCuSpLYP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "IvsYZZh8179NQipgss3WP2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "GuoaG46K1b/jSoZ8GuTUP2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "R/bz3Pyo07/UlgBcueDSP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "Udlx1Q0T0L+g/22Ij03NP2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "3ybSg4GmzL/8gM0Z5d/IP2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "n2hOvWVAyb85+JVGA23EP2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "lzcYaG3fxb98nuD4esq/P2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "lmFKs8Aqvr9m82lb6HaqP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "CMZgHsdTt7/gPinnXueOP2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "UwJ7zvRXsL/Y4SQFyGyWv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "L2b8Ujceor8lc1+jqJKuv2RmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "CkgyyO1Ilj/4KKAJFu/Av2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "nm9DNFS1qj8IDFrpL6bFv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "1yMGlSRytT+G3ggIQmbKv2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "7kdG7AiyvT8LNBriSRjPv2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "hRGyS7D5wj86KXwdBNTRv2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "AvNlO/CFyz+FE7C8rlvWv2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "0Iki//Dvzz+s61HPuJvYv2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "IhQtbzA10j8UBQIdkNbav2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "Q5DboNSM1D8LxEIO/B7dv2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "tqvXV5Hq2D+GXFaDNqLgv2hmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "VRQ1rc/U2j984t8xnobhv2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "gzH8frvF3D+KChkpPWziv2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "BKKSRuG83j8gUD/naFPjv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "QQhesu9l4D/z1Ay6zkTkv2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "C5ywv6+K4j/LL0ysbDjmv2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "FnmGow+p4z87mOwKeTfnv2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "ZztOTYfQ5D/Qe+8cNzfov2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "sJXk8pz95T+QgbTRfTHpv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "wxDYcmgx5z8yKZIlASTqv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "YmGqXJ6o6T8d/WdIp+Hrv2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "hreRWJPp6j+HqbwVq6Xsv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "RAXkeU0n7D/cbSU8gVHtv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "E4GcwCZn7T+ZiieGSeftv2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "oMc3jLap7j/gxaIYRWbuv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "NGuN3Tic8D/e1UE5Hx7vv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "A0p+Zm9B8T9acjuRH1nvv2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "CXINprHj8T8oe5X3l4Dvv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "nEPRDT2N8j8eJSiRgJjvv2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "qsxdPzky8z8J9MG4hKDvv2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "GXjCsoB59D8y3gyJPInvv2RmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "y0iDm24a9T+QcsW1s2zvv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "1BU+4N229T9U/Sx0K0fvv2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "HNs0j09W9j8w5dotkxfvv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "wu7Kf4jy9j9LPlXiReDuv2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "5vIX6hsy+D+Rtkv+6lXuv2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "XJ6d07XU+D+csu7jCwPuv2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "FZoRLG16+T9Tu7eG9aXtv2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "3pY1xgwi+j/9+r8STT7tv2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "o422vBJt+z+amEJw/1Lsv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "pMdPpA8P/D8VxEpYXdDrv2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "dIgwWmmx/D96f5SWbEPrv2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "mMwKNLhR/T89vhHqP6/qv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "goxNGjvz/T+mjDqHaRLqv2hmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "nHixOuU1/z/REXBxXcvov2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "UIRM81TZ/z/7cskbnCPov2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "vmE7dbM+AEALL8rZYXrnv2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "97Vpaj6PAEBjqx5mp9Lmv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "cQtaMTszAUAukulHaXXlv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "9+7ah7GFAUDGEsbDgcDkv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "kfibPS/XAUCvacMHbAnkv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "UTD8a20pAkDufvn4tEvjv2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "oauUoSjOAkDmAn+cfr7hv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "kDMvNa4eA0Dz6nDl6fLgv2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "dldF9qxwA0AhSPcjjhzgv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "Crz6fz7CA0DYn1uwfH/ev2dmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "b+EQ9gphBECSx+xpo/Tav2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "jga6ycygBEDTxjLkt3XZv2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "+48zNCDZBECcVtXS4RnYv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "spN/9oYTBUDlylJ6Z6fWv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "lNVJ1BVOBUBEQRNmhinVv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "jtEu5BLTBUAke0ekkZ3Rv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "4jLek+/zBUBuipBqHrTQv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "pLydXtIzBkAOe/a5B8fNv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "9RSBbyVpBkB2ABbYD6nKv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "hEYwGXShBkCGeAZcp0fHv2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "ZoG7vAMbB0BvlTMvMFC/v2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "QsMEvD83B0DqL0jM3aO7v2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "OSgQHcVuB0C9lDQBUUS0v2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "+Jr4/56aB0DrgNd7UJmsv2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "NHHuuQfYB0BZrLjPheSWv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "In21OtTfB0BJy4zIE3aSv2VmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "ynKbS0D2B0BDHNTIUIB2v2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "mJX3bQb/B0CEpcheOgpCv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "mJX3bQb/B0CEpcheOgpCv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "mJX3bQb/B0CEpcheOgpCv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "mJX3bQb/B0CEpcheOgpCv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "mJX3bQb/B0CEpcheOgpCv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "mJX3bQb/B0CEpcheOgpCv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "mJX3bQb/B0CEpcheOgpCv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "mJX3bQb/B0CEpcheOgpCv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        },
+        {
+            "__numpy__": "mJX3bQb/B0CEpcheOgpCv2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                3
+            ]
+        }
+    ],
+    "commands": [
+        [
+            -37,
+            18,
+            -21
+        ],
+        [
+            -37,
+            18,
+            -21
+        ],
+        [
+            -37,
+            18,
+            -22
+        ],
+        [
+            -37,
+            18,
+            -22
+        ],
+        [
+            -37,
+            18,
+            -22
+        ],
+        [
+            -37,
+            18,
+            -22
+        ],
+        [
+            -37,
+            18,
+            -22
+        ],
+        [
+            -37,
+            19,
+            -22
+        ],
+        [
+            -37,
+            19,
+            -22
+        ],
+        [
+            -37,
+            19,
+            -22
+        ],
+        [
+            -37,
+            19,
+            -22
+        ],
+        [
+            -37,
+            19,
+            -21
+        ],
+        [
+            -37,
+            20,
+            -20
+        ],
+        [
+            -37,
+            21,
+            -19
+        ],
+        [
+            -37,
+            22,
+            -18
+        ],
+        [
+            -37,
+            27,
+            -16
+        ],
+        [
+            -37,
+            29,
+            -15
+        ],
+        [
+            -37,
+            33,
+            -14
+        ],
+        [
+            -37,
+            37,
+            -13
+        ],
+        [
+            -31,
+            37,
+            -12
+        ],
+        [
+            -28,
+            37,
+            -11
+        ],
+        [
+            -25,
+            37,
+            -11
+        ],
+        [
+            -22,
+            37,
+            -10
+        ],
+        [
+            -19,
+            37,
+            -10
+        ],
+        [
+            -13,
+            37,
+            -10
+        ],
+        [
+            -10,
+            37,
+            -9
+        ],
+        [
+            -8,
+            37,
+            -9
+        ],
+        [
+            -5,
+            37,
+            -9
+        ],
+        [
+            -2,
+            37,
+            -9
+        ],
+        [
+            -1,
+            37,
+            -9
+        ],
+        [
+            0,
+            37,
+            -9
+        ],
+        [
+            0,
+            37,
+            -9
+        ],
+        [
+            1,
+            37,
+            -9
+        ],
+        [
+            1,
+            37,
+            -9
+        ],
+        [
+            1,
+            37,
+            -9
+        ],
+        [
+            1,
+            37,
+            -9
+        ],
+        [
+            1,
+            37,
+            -9
+        ],
+        [
+            0,
+            37,
+            -9
+        ],
+        [
+            0,
+            37,
+            -8
+        ],
+        [
+            0,
+            37,
+            -8
+        ],
+        [
+            1,
+            37,
+            -8
+        ],
+        [
+            1,
+            37,
+            -8
+        ],
+        [
+            2,
+            37,
+            -8
+        ],
+        [
+            3,
+            37,
+            -8
+        ],
+        [
+            4,
+            37,
+            -7
+        ],
+        [
+            5,
+            37,
+            -7
+        ],
+        [
+            8,
+            37,
+            -7
+        ],
+        [
+            9,
+            37,
+            -7
+        ],
+        [
+            11,
+            37,
+            -7
+        ],
+        [
+            13,
+            37,
+            -7
+        ],
+        [
+            15,
+            37,
+            -6
+        ],
+        [
+            20,
+            37,
+            -5
+        ],
+        [
+            23,
+            37,
+            -5
+        ],
+        [
+            26,
+            37,
+            -5
+        ],
+        [
+            28,
+            37,
+            -4
+        ],
+        [
+            30,
+            37,
+            -4
+        ],
+        [
+            35,
+            37,
+            -4
+        ],
+        [
+            37,
+            37,
+            -4
+        ],
+        [
+            37,
+            34,
+            -4
+        ],
+        [
+            37,
+            31,
+            -4
+        ],
+        [
+            37,
+            29,
+            -4
+        ],
+        [
+            37,
+            27,
+            -4
+        ],
+        [
+            37,
+            27,
+            -4
+        ],
+        [
+            37,
+            27,
+            -4
+        ],
+        [
+            37,
+            27,
+            -4
+        ],
+        [
+            37,
+            26,
+            -4
+        ],
+        [
+            37,
+            26,
+            -4
+        ],
+        [
+            37,
+            26,
+            -4
+        ],
+        [
+            37,
+            25,
+            -4
+        ],
+        [
+            37,
+            25,
+            -4
+        ],
+        [
+            37,
+            25,
+            -4
+        ],
+        [
+            37,
+            25,
+            -4
+        ],
+        [
+            37,
+            25,
+            -4
+        ],
+        [
+            37,
+            25,
+            -5
+        ],
+        [
+            37,
+            25,
+            -5
+        ],
+        [
+            37,
+            25,
+            -5
+        ],
+        [
+            37,
+            25,
+            -5
+        ],
+        [
+            37,
+            26,
+            -6
+        ],
+        [
+            37,
+            26,
+            -6
+        ],
+        [
+            37,
+            27,
+            -6
+        ],
+        [
+            37,
+            28,
+            -6
+        ],
+        [
+            37,
+            29,
+            -6
+        ],
+        [
+            37,
+            30,
+            -6
+        ],
+        [
+            37,
+            32,
+            -6
+        ],
+        [
+            37,
+            33,
+            -5
+        ],
+        [
+            37,
+            34,
+            -5
+        ],
+        [
+            37,
+            36,
+            -5
+        ],
+        [
+            36,
+            37,
+            -5
+        ],
+        [
+            35,
+            37,
+            -5
+        ],
+        [
+            34,
+            37,
+            -5
+        ],
+        [
+            33,
+            37,
+            -5
+        ],
+        [
+            32,
+            37,
+            -4
+        ],
+        [
+            30,
+            37,
+            -4
+        ],
+        [
+            30,
+            37,
+            -4
+        ],
+        [
+            29,
+            37,
+            -4
+        ],
+        [
+            28,
+            37,
+            -4
+        ],
+        [
+            27,
+            37,
+            -4
+        ],
+        [
+            24,
+            37,
+            -4
+        ],
+        [
+            22,
+            37,
+            -4
+        ],
+        [
+            20,
+            37,
+            -4
+        ],
+        [
+            18,
+            37,
+            -4
+        ],
+        [
+            16,
+            37,
+            -4
+        ],
+        [
+            11,
+            37,
+            -5
+        ],
+        [
+            8,
+            37,
+            -5
+        ],
+        [
+            6,
+            37,
+            -4
+        ],
+        [
+            3,
+            37,
+            -4
+        ],
+        [
+            1,
+            37,
+            -4
+        ],
+        [
+            -3,
+            37,
+            -4
+        ],
+        [
+            -5,
+            37,
+            -4
+        ],
+        [
+            -7,
+            37,
+            -4
+        ],
+        [
+            -9,
+            37,
+            -4
+        ],
+        [
+            -12,
+            37,
+            -4
+        ],
+        [
+            -16,
+            37,
+            -4
+        ],
+        [
+            -18,
+            37,
+            -4
+        ],
+        [
+            -20,
+            37,
+            -4
+        ],
+        [
+            -23,
+            37,
+            -4
+        ],
+        [
+            -27,
+            37,
+            -4
+        ],
+        [
+            -29,
+            37,
+            -4
+        ],
+        [
+            -30,
+            37,
+            -4
+        ],
+        [
+            -32,
+            37,
+            -3
+        ],
+        [
+            -33,
+            37,
+            -3
+        ],
+        [
+            -35,
+            37,
+            -2
+        ],
+        [
+            -35,
+            37,
+            -2
+        ],
+        [
+            -35,
+            37,
+            -2
+        ],
+        [
+            -35,
+            37,
+            -1
+        ],
+        [
+            -34,
+            37,
+            -1
+        ],
+        [
+            -33,
+            37,
+            -1
+        ],
+        [
+            -32,
+            37,
+            -1
+        ],
+        [
+            -31,
+            37,
+            -1
+        ],
+        [
+            -28,
+            37,
+            -1
+        ],
+        [
+            -27,
+            37,
+            -1
+        ],
+        [
+            -25,
+            37,
+            -1
+        ],
+        [
+            -24,
+            37,
+            -2
+        ],
+        [
+            -22,
+            37,
+            -1
+        ],
+        [
+            -20,
+            36,
+            -1
+        ],
+        [
+            -19,
+            35,
+            -1
+        ],
+        [
+            -17,
+            34,
+            -1
+        ],
+        [
+            -16,
+            33,
+            -1
+        ],
+        [
+            -16,
+            32,
+            -2
+        ],
+        [
+            -14,
+            29,
+            -2
+        ],
+        [
+            -14,
+            28,
+            -2
+        ],
+        [
+            -15,
+            27,
+            -2
+        ],
+        [
+            -15,
+            26,
+            -2
+        ],
+        [
+            -18,
+            25,
+            -3
+        ],
+        [
+            -17,
+            23,
+            -3
+        ],
+        [
+            -19,
+            22,
+            -3
+        ],
+        [
+            -20,
+            21,
+            -3
+        ],
+        [
+            -20,
+            18,
+            -3
+        ],
+        [
+            -19,
+            15,
+            -3
+        ],
+        [
+            -19,
+            13,
+            -3
+        ],
+        [
+            -18,
+            11,
+            -3
+        ],
+        [
+            -16,
+            8,
+            -4
+        ],
+        [
+            -13,
+            2,
+            -4
+        ],
+        [
+            -11,
+            0,
+            -4
+        ],
+        [
+            -9,
+            -1,
+            -4
+        ],
+        [
+            -8,
+            -3,
+            -4
+        ],
+        [
+            -6,
+            -5,
+            -4
+        ],
+        [
+            -3,
+            -8,
+            -4
+        ],
+        [
+            -2,
+            -9,
+            -4
+        ]
+    ]
+}

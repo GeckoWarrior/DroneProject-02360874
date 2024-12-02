@@ -1,0 +1,41 @@
+{
+    "obstacles": [
+        {
+            "__numpy__": "AAAAAAAAAMAAAAAAAAAAwAAAAAAAAPC/AAAAAAAAAMAAAAAAAADwvwAAAAAAAOA/AAAAAAAAAMAAAAAAAADgPw==",
+            "dtype": "<f8",
+            "shape": [
+                4,
+                2
+            ]
+        },
+        {
+            "__numpy__": "AAAAAAAAAEAAAAAAAAAAQAAAAAAAAPA/AAAAAAAAAEAAAAAAAADwPwAAAAAAAOC/AAAAAAAAAEAAAAAAAADgvw==",
+            "dtype": "<f8",
+            "shape": [
+                4,
+                2
+            ]
+        }
+    ],
+    "spl": [
+        {
+            "__numpy__": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAvgNDpyyP5ct+FJp98A/Ilr0nsugyD/zbC5tJfzPP2cnZGL7ftM/QH8WbloB1z8Y18h5uYPaP/b2e4Z0T+A/Z+tL3+IE4z/X3xs4UbrlP5ugeCVwlug/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8=",
+            "dtype": "<f8",
+            "shape": [
+                19
+            ]
+        },
+        {
+            "__numpy__": "AAAAAAAACMAAAAAAAAAAAGZmZmZmZuY/+/WPU5dBBcDMMgRra1faP2ZmZmZmZuY/+hj+4bYNAsD7yNWM4hnjP2ZmZmZmZuY/8XfY4Kyz/b+QeClkDwjpP2ZmZmZmZuY/H7jjWjUa978BntYbMx7sP2ZmZmZmZuY/F21YIfnv8L981/vHIUroP2ZmZmZmZuY/HgegcDhk5r8mZHIszFfiP2ZmZmZmZuY/HWgePf3Q1b+g4dEh7crYP2ZmZmZmZuY/VKSzNdptpT/goa+obOvJv2ZmZmZmZuY/xgqKgA0Q4D/TXoy/Kvbjv2ZmZmZmZuY/Rtu4XT3J7j+XanYqvbjwv2ZmZmZmZuY/cnn3wtrQ+T8AZF/b01Puv2ZmZmZmZuY/BC+gi9n7AEC0LiRGdfflv2ZmZmZmZuY/UKHEtUUPBUDS8tFhLTbbv2ZmZmZmZuY/AAAAAAAACEAAAAAAAAAAAGZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                15,
+                3
+            ]
+        },
+        3
+    ],
+    "positions": [],
+    "aims": [],
+    "commands": []
+}

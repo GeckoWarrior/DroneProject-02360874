@@ -1,0 +1,33 @@
+{
+    "obstacles": [
+        {
+            "__numpy__": "AAAAAAAAJMAAAAAAAADoPwAAAAAAAAhAAAAAAAAAAAAAAAAAAAAkwAAAAAAAAOi/",
+            "dtype": "<f8",
+            "shape": [
+                3,
+                2
+            ]
+        }
+    ],
+    "spl": [
+        {
+            "__numpy__": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADS+VFPm1bZP28yoYAPEd0/zA3QkJZ93z8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPw==",
+            "dtype": "<f8",
+            "shape": [
+                11
+            ]
+        },
+        {
+            "__numpy__": "AAAAAAAACMAAAAAAAADwv2ZmZmZmZuY/19LC0/LBAkCF2f7dvALqv2ZmZmZmZuY/hISMsOgiCEAJuiKkUNrZv2ZmZmZmZuY/qqPhPXT6CkDaG4dS0VOiv2ZmZmZmZuY/5RcArRUSC0AICoOvIqLNP2ZmZmZmZuY/loLZMUqNCkAqnDe/b33eP2ZmZmZmZuY/AAAAAAAACMAAAAAAAADwP2ZmZmZmZuY/",
+            "dtype": "<f8",
+            "shape": [
+                7,
+                3
+            ]
+        },
+        3
+    ],
+    "positions": [],
+    "aims": [],
+    "commands": []
+}
